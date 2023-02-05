@@ -1,0 +1,285 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "sergey01@example.com",
+            "password": "$2a$10$mg2v2a6Bz5q0J8EYwuJyeeG.H8iYC7TpbVMMvoRK42Qzse6c.Exv.",
+            "name": "Sergey",
+            "surname": "Potapov",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Sergey",
+            "smallPic": "https://sun9-61.userapi.com/impg/QpgPKzT4wUSV6a5J_Ss3aOipjQ4B7PIqxiTfDw/BhowirGkH0w.jpg?size=100x100&quality=95&sign=7dbbeaadeffaad7668539e92dfbb8b8f&type=album",
+            "largePic": "https://sun9-24.userapi.com/impg/Id_lV5Xul2f_WX4tb6UmBQSWGs1DZFQlMdSFJQ/qyJ7_3Kxx4I.jpg?size=500x500&quality=95&sign=886e8fe49b2abc2e049a6f4e81d4ef79&type=album"
+        },
+        {
+            "id": 2,
+            "email": "liza02@example.com",
+            "password": "$2a$10$pfwiLPaPXIixhZCcErqhq.EFBrohA/IlLLWkcXock5/mGnQ6CWhnO",
+            "name": "Liza",
+            "surname": "Shimuk",
+            "age": 20,
+            "city": "Nefteyugansk",
+            "status": "This is a status of Liza",
+            "smallPic": "https://sun9-23.userapi.com/impg/bZ87gMBXqKNFTq_qMqcrBpvgzzyFIuMeULMRzw/PS1T6ZfPuQ8.jpg?size=100x100&quality=95&sign=d4932cd794c36fd2e50cb01bfb6ae7ac&type=album",
+            "largePic": "https://sun9-78.userapi.com/impg/-xcJfEn7KJMwf5JACq2oTLA2fNx00QyxQQKF7w/fp-FVLgVxR8.jpg?size=500x500&quality=95&sign=368e439aeaf089ea3fe8cfeaff119c6c&type=album"
+        },
+        {
+            "id": 3,
+            "email": "artyom03@example.com",
+            "password": "$2a$10$1z/wAgqtq9OOlqVLErj82.Ol00mHgmnBHWnSarud1Xexb7d09GbbC",
+            "name": "Artyom",
+            "surname": "Makarov",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Artyom",
+            "smallPic": "https://sun9-72.userapi.com/impg/6fFPTn9l-bU3JM-nfCpgw04r8Auy-YC80XhgYQ/3NzXD4fdaa4.jpg?size=100x100&quality=95&sign=b9a1020e43f42838360b1cfc543c01ec&type=album",
+            "largePic": "https://sun9-83.userapi.com/impg/vpTyJPHbDiekp1oDcfKsH8Zwbdguydhtu2zQfQ/HhYXiryBrf4.jpg?size=500x500&quality=95&sign=b470abc9ab53df1a014d290790f6a13d&type=album"
+        },
+        {
+            "id": 4,
+            "email": "erik04@example.com",
+            "password": "$2a$10$6Rtz4LC2qDwxPxVtfV.mjuYLMarV7E4Yh7JGP.gVL8/u0P1BsEcpK",
+            "name": "Erik",
+            "surname": "Tukhbatov",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Erik",
+            "smallPic": "https://sun9-5.userapi.com/impg/wg_VyB2sZMaoeePClp9SIz-hRX1IoOTPqoLAzg/tGIYiPH9PRg.jpg?size=100x100&quality=95&sign=077aefd737aeb0740f72cdf8311af6b8&type=album",
+            "largePic": "https://sun9-53.userapi.com/impg/Kl61gyXCsmfGtDEY2JGsgqfrONGrVD0GQeXBaA/-HHIJKp03sA.jpg?size=500x500&quality=95&sign=125922f033f19e1a7c31c285cb3965cb&type=album"
+        },
+        {
+            "id": 5,
+            "email": "darya05@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Darya",
+            "surname": "Dernina",
+            "age": 20,
+            "city": "Lysva",
+            "status": "This is a status of Darya",
+            "smallPic": "https://sun9-12.userapi.com/impg/B0fRzGFx45cBRNcfJzSSzOyLXEW4UF7di4q19g/3NGAP54F2dU.jpg?size=100x100&quality=95&sign=de33f26d09c27390d7659bea50e15bfa&type=album",
+            "largePic": "https://sun9-35.userapi.com/impg/2TJmxoHqQKPHiMv7P8T2JP1VTOwu0g4MLd87fw/JjZhoXyotPw.jpg?size=500x500&quality=95&sign=7af936ef1222e5fe0bebf7d4535dcf8e&type=album"
+        },
+        {
+            "id": 6,
+            "email": "anya06@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Anya",
+            "surname": "Popova",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Anya",
+            "smallPic": "https://sun9-79.userapi.com/impg/NygB23pcrzKB1o8SUzy0-OlnScUMttX9Nkt2rA/OLa7KpMBbko.jpg?size=100x100&quality=95&sign=687f82910dd98114239daf0194cef056&type=album",
+            "largePic": "https://sun9-64.userapi.com/impg/-1bVjdjuRnS-xZ3yobcU-nbLpmdUQZ9xbKHP2w/3FaQyvjcY_s.jpg?size=500x500&quality=95&sign=9db2573159f93d84492200726dcf95e4&type=album"
+        },
+        {
+            "id": 7,
+            "email": "alexander07@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Alexsander",
+            "surname": "Bebris",
+            "age": 36,
+            "city": "Moscow",
+            "status": "This is a status of Alexander",
+            "smallPic": "https://sun9-66.userapi.com/impg/nbX7A5rOwnM3ly3-yrhrOMNgxf0QdPD8IY7foQ/mvO7O6NTfkE.jpg?size=100x100&quality=95&sign=514f78dc9a18d062a3285c46ca195e26&type=album",
+            "largePic": "https://sun9-25.userapi.com/impg/HqA06wEEhtmPbSICThXkYqli7C0q3aY1QHq1bw/ETbPnYUll4k.jpg?size=500x500&quality=95&sign=886f76acd6cf7c1ee089e0f82cf4bb6c&type=album"
+        },
+        {
+            "id": 8,
+            "email": "boris08@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Boris",
+            "surname": "Boyarshinov",
+            "age": 68,
+            "city": "Moscow",
+            "status": "This is a status of Boris",
+            "smallPic": "https://sun9-65.userapi.com/impg/orru8ivLcchshyPqV_7zJplvYGZdPwEN1FpCZQ/lFKvsYd_s04.jpg?size=100x100&quality=95&sign=75cb5fc7b0f29b791239ff1c971fe500&type=album",
+            "largePic": "https://sun9-84.userapi.com/impg/ePBB4eZaEM05B6iOklutW2xf-2_rXJSm6MqzbQ/QA4u203kMUM.jpg?size=500x500&quality=95&sign=893128f13106e1e82fbbb7b8dbd08563&type=album"
+        },
+        {
+            "id": 9,
+            "email": "natalya09@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Natalya",
+            "surname": "Kolushina",
+            "age": 20,
+            "city": "Magnitogorsk",
+            "status": "This is a status of Natalya",
+            "smallPic": "https://sun9-25.userapi.com/impg/YqOG_77dZZx_vxkVKR8SJ8OG99pLzmPKczgDUw/VTEwl3J7Sck.jpg?size=100x100&quality=95&sign=96f865a6230b8928953e595e4767ce0d&type=album ",
+            "largePic": "https://sun9-74.userapi.com/impg/QSJKERgIZSmF-8pivieiSR6tYJcpcgDBx9od_w/Sz9Q49MC7Jo.jpg?size=500x500&quality=95&sign=0126ba9d2a6d649d5ddcc9291a05c09b&type=album"
+        },
+        {
+            "id": 10,
+            "email": "margarita10@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Margarita",
+            "surname": "Churakova",
+            "age": 21,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Margarita",
+            "smallPic": "https://sun9-28.userapi.com/impg/AhWR6SuSAP4dpaBbDo78TxbnbP86C7-geJTi6g/Qu9rgrEn_tc.jpg?size=100x100&quality=95&sign=58ec16da2bbfd76bd662dce2d694e916&type=album",
+            "largePic": "https://sun9-85.userapi.com/impg/UnRmdUsht9aTnrHvqd9SGfFyxaplyw7Udr7yfA/VQzPq5nCZEM.jpg?size=500x500&quality=95&sign=2828ec47150cba1125b53ee5ac674fa9&type=album"
+        },
+        {
+            "id": 11,
+            "email": "sergey11@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Sergey",
+            "surname": "Tsirkulev",
+            "age": 20,
+            "city": "Vladivostok",
+            "status": "This is a status of Sergey",
+            "smallPic": "https://sun9-35.userapi.com/impg/OaepRpgKUc3WL-4ihtJ3iRi8h4WhyQYhOtkNHQ/8wkSZF7Whic.jpg?size=100x100&quality=95&sign=3bbdc42b1ab0288125bf1970fd85e571&type=album",
+            "largePic": "https://sun9-57.userapi.com/impg/PG_19fWQL5e_Va03cmzKte4o4LLPdKlJq7eMhQ/4DiEjNTVmZc.jpg?size=500x500&quality=95&sign=62cc5b66077e695836d7eaae03cca0b9&type=album"
+        },
+        {
+            "id": 12,
+            "email": "danya12@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Danya",
+            "surname": "Koblov",
+            "age": 21,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Danya",
+            "smallPic": "https://sun9-15.userapi.com/impg/AkgcZfovDXu66d2cmG77CCAr6haqBPec5WRtWQ/e7tvvp6LUik.jpg?size=100x100&quality=95&sign=580e9997a3c7bf67e70081c5c18f5a45&type=album",
+            "largePic": "https://sun9-67.userapi.com/impg/pc2j_L-ELwtYnHAAyO7DMyiKU6vF3ll7fwknjA/F8mAM7hTqlw.jpg?size=500x500&quality=95&sign=37ab8489ea40b292f8636ff509c48f65&type=album"
+        },
+        {
+            "id": 13,
+            "email": "irena13@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Irena",
+            "surname": "Sych",
+            "age": 20,
+            "city": "Zlatoust",
+            "status": "This is a status of Irena",
+            "smallPic": "https://sun9-7.userapi.com/impg/Zxh9Ju4qcF2ARbH7__htFl4Xa0qJ5j5vZEHG4g/vLVrtAicWkQ.jpg?size=100x100&quality=95&sign=49f73ac420605a550afc4763aa1aed19&type=album",
+            "largePic": "https://sun9-68.userapi.com/impg/rgfksEnIwt8s3ZMdNZhclW-Tk6ydkWSwd3Vb0g/nWJqeOO6ZZ0.jpg?size=500x500&quality=95&sign=28d8b1aedd2f9aa64ca03494b5c084c1&type=album"
+        },
+        {
+            "id": 14,
+            "email": "darya14@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Darya",
+            "surname": "Gendina",
+            "age": 21,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Darya",
+            "smallPic": "https://sun9-80.userapi.com/impg/RJav9HXJV70uf3RWlKtanTAMCUqgXqwjxu2TwQ/Ifros-6HH8I.jpg?size=100x100&quality=95&sign=ba827b0cf321f18dc1f328fb1fe39ee3&type=album",
+            "largePic": "https://sun9-37.userapi.com/impg/eGOurUpMyA12i_B55elcA_nM3cGw4P5lTHrP7Q/Yt1yyJyrtFY.jpg?size=500x500&quality=95&sign=4edf74a591000fdf882e318523a08af4&type=album"
+        },
+        {
+            "id": 15,
+            "email": "ekaterina15@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Ekaterina",
+            "surname": "Volkova",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Ekaterina",
+            "smallPic": "https://sun9-37.userapi.com/impg/bPU2U1VnVBqZvpZVcKI9cPQXymRc1J0cg0xK4Q/d6y_ZJtO7js.jpg?size=100x100&quality=95&sign=9c275fd905d8d1600b2625aeb6a26aa4&type=album",
+            "largePic": "https://sun9-14.userapi.com/impg/ZmdO-hkDU3IMSPuWwPHyGDhljA5vIY2Zu09tiQ/DV8MujLtCPM.jpg?size=500x500&quality=95&sign=4ddb45f27c8c4ee483c09526935624bd&type=album"
+        },
+        {
+            "id": 16,
+            "email": "oksana16@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Oksana",
+            "surname": "Reshaeva",
+            "age": 20,
+            "city": "Beresovskiy",
+            "status": "This is a status of Oksana",
+            "smallPic": "https://sun9-33.userapi.com/impg/swJV5ndKr9uAk17KLq_GhzhH29maK7bcf7hHGg/gcHsX-jxWK4.jpg?size=100x100&quality=95&sign=80296b50e77e768b464f3dbd3135fb96&type=album",
+            "largePic": "https://sun9-80.userapi.com/impg/Zdsy6vwUjz9QaNNI2mJGTdinZufQOjGitwim7w/4kJKimQ6-PI.jpg?size=500x500&quality=95&sign=8bb171c353bb637724aa7def905229fd&type=album"
+        },
+        {
+            "id": 17,
+            "email": "yuliya17@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Yuliya",
+            "surname": "Perova",
+            "age": 20,
+            "city": "Magnitogorsk",
+            "status": "This is a status of Yuliya",
+            "smallPic": "https://sun9-1.userapi.com/impg/p2gqigfviFGczeNLR2c9aGurHfP8uLQm4ceqKQ/uGNgL34cEK8.jpg?size=100x100&quality=95&sign=e3fe7e48ce76b0878b1688cbfa1b8105&type=album",
+            "largePic": "https://sun9-44.userapi.com/impg/0OIeAtpNE62YjjbO_rPuY3domRXnXBqd6Qrl5w/AEieg7cPktM.jpg?size=500x500&quality=95&sign=0974496726abcd438b7fccdb807b1514&type=album"
+        },
+        {
+            "id": 18,
+            "email": "ekaterina18@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Ekaterina",
+            "surname": "Mamina",
+            "age": 23,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Ekaterina",
+            "smallPic": "https://sun9-42.userapi.com/impg/miIkrqBXZzrJb7qAfh5uEqQ5lAwyYeqfRern0w/dw5s37wVzp8.jpg?size=100x100&quality=95&sign=cdc17f5847598b81c642a953806ded2c&type=album",
+            "largePic": "https://sun9-87.userapi.com/impg/JNtH8e8WfRR6Qe_nsY4Tz13Zfgufdxe1lBfUHw/019xWTgXbKY.jpg?size=500x500&quality=95&sign=4ed2e348beb1657bcfbd422da86ef9c3&type=album"
+        },
+        {
+            "id": 19,
+            "email": "yuliya19@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Yuliya",
+            "surname": "Lezhneva",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Yuliya",
+            "smallPic": "https://sun9-42.userapi.com/impg/Dajbu0SqsBYYCu-YSfYSkO1BhRhTg-_pGZhffw/QTOvIQJt538.jpg?size=100x100&quality=95&sign=da26f1bf69c79340409c1b9f8dab56e5&type=album",
+            "largePic": "https://sun9-84.userapi.com/impg/DANs3AFJ7rSoJE9WEksjsrU2IPd6x8kR_DDRmA/qry88b2dHcc.jpg?size=500x500&quality=95&sign=7a08f692a5614dd2920c00c1598393b7&type=album"
+        },
+        {
+            "id": 20,
+            "email": "egor20@example.com",
+            "password": "$2a$10$xDAfSWMBtUxkSgV48CBNrODBDKW3/KTcuGKLRLATkoj4L/vi.u6FG",
+            "name": "Egor",
+            "surname": "Ezhov",
+            "age": 20,
+            "city": "Yekaterinburg",
+            "status": "This is a status of Egor",
+            "smallPic": "https://sun9-8.userapi.com/impg/yyKTE7UIduYKF5RLWPCx_zpkuR5muETAPqvk7Q/ZAEtb31sMAc.jpg?size=100x100&quality=95&sign=340c2602f8e6c34c2c048a3bde118c48&type=album",
+            "largePic": "https://sun9-7.userapi.com/impg/KumdxAACeIj7Gnvsu8qWVXbMWvIZybvEK5ioTA/UslV9NAwR10.jpg?size=500x500&quality=95&sign=f5af185153a4e194c652ffd9b71e63c7&type=album"
+        }
+    ],
+    "contacts": [
+        {
+            "userId": 1,
+            "id": 1,
+            "to": 2
+        },
+        {
+            "userId": 4,
+            "id": 2,
+            "to": 2
+        },
+        {
+            "userId": 1,
+            "id": 3,
+
+            "to": 5
+        },
+        {
+            "userId": 5,
+            "to": 2,
+            "id": 4
+        },
+        {
+            "userId": 5,
+            "to": 2,
+            "id": 5
+        },
+        {
+            "userId": 5,
+            "to": 2,
+            "id": 6
+        },
+        {
+            "userId": 1,
+            "id": 7,
+            "to": 17
+        }
+    ],
+    "auth": {
+        "message": "if you see this message, you are logged in"
+    }
+}
