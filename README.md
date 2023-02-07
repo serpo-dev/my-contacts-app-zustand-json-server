@@ -1,10 +1,11 @@
 
+
 # MyContactsApp (PET)
 ##### JSON-SERVER + REACT + TYPESCRIPT + ZUSTAND
 
 A simple web-application with authorization where you can find people by the search panel and save them into your contacts. 
 
-![](https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif)
+![](https://github.com/yphwd/PET-my-contacts-app/blob/main/assets/preview.gif?raw=true)
 
 
 ### Tech stack
