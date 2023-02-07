@@ -1,0 +1,12 @@
+{
+    "name": "pet-my-contacts-app",
+    "version": "1.0.0",
+    "scripts": {
+        "modules": "npm install && (cd client && npm install) && (cd ../server && npm install)",
+        "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm run dev\""
+    },
+    "dependencies": {
+        "concurrently": "^7.6.0"
+    },
+    "author": "yphwd"
+}
